@@ -1,0 +1,9 @@
+coleta-de-dados/
+
+__pycache__/
+*.pyc
+
+*.log
+
+.vscode/
+.idea/
